@@ -1,0 +1,39 @@
+.header {
+    box-shadow: 5px 5px 5px gray;
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Mali', cursive;
+}
+.heading_div {
+    float: none;
+    background-color: mintcream;
+    color: midnightblue;
+    border-radius: 25px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px gainsboro;
+    font-family: 'Mali', cursive;
+}
+.heading_div2 {
+    font-size: 18px;
+    font-family: 'Mali', cursive;
+}
+.copy_right_footer {
+    position: fixed;
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    bottom: 0;
+    width: 100%;
+    background-color: floralwhite;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Mali', cursive;
+}
+
+canvas {
+    border: 5px double floralwhite;
+    border-radius: 20px;
+    margin-top: 115px;
+    box-shadow: 5px 5px 5px gainsboro;
+}
